@@ -1,4 +1,4 @@
-.carousel, .slide{
+.inicio{
     width: 60%;
     margin-left: auto;
     margin-right: auto;
@@ -6,4 +6,42 @@
 
 .dondeEstamos{
     width: 100%;
+}
+
+.herramienta-portada{
+    background-image: url("imagenes/herramientas.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100%;
+    height:auto;
+    padding-bottom:15% ;
+}
+
+#herramientasTitulo{
+    font-size: 13vh;
+    color: brown;
+    background-color: rgba(9, 148, 9, 0.35);
+    
+}
+
+.contTabla{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table td{
+    vertical-align: middle;
+}
+
+.pinzas{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagen{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
