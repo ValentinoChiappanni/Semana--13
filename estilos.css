@@ -14,11 +14,11 @@
     background-position-x: center;
     background-size: 100%;
     height:auto;
-    padding-bottom:15% ;
+    padding-bottom:5% ;
 }
 
 #herramientasTitulo{
-    font-size: 13vh;
+    font-size: 13vw;
     color: brown;
     background-color: rgba(9, 148, 9, 0.35);
     
